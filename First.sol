@@ -1,6 +1,7 @@
 // example.sol
 contract example {
         // Process state
+//New text added
 //new line test for notes
         enum State {
                 Running,
