@@ -11,7 +11,7 @@ contract example {
                 Zombie,
                 StateCount
         }
-
+//test notes
         // Variables in contract storage
         State state;
         int32 pid;
