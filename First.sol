@@ -2,6 +2,7 @@
 contract example {
         // Process state
 //New text added
+//ok
 //new line test for notes
         enum State {
                 Running,
