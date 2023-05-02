@@ -1,3 +1,4 @@
+//Example
 // example.sol
 contract example {
         // Process state
