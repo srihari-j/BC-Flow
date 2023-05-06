@@ -1,4 +1,4 @@
-//Example12345
+//Example12345 77777
 // example.sol
 contract example {
         // Process state
